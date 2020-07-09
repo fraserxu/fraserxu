@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi this is Fraser.
+
+I'm a web developer from China, now living and working in Melbourne. I'm currently working as a senior front-end developer for [Envato](https://envato.com).
+
+The main project I'm working on now is [Envato Elements](https://elements.envato.com/), before that I also worked on [Milkshake](https://milkshake.app/) and [Envato Market](https://themeforest.net).
